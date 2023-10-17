@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYXBuRXBU+6bhFitqTKQi9uOqPUqADr67x/r2i82DUMZr9fGjmoxTujt8Wd5inXFTmse+AZ6aSKJW2DxPx/UwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fu_fu\\Desktop\\github\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fu_fu\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\fu_fu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\fu_fu\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\fu_fu\\.nuget\\packages\\spreadsheetlight.cross.platform\\3.5.1\\spreadsheetlight.cross.platform.3.5.1.nupkg.sha512",
+    "C:\\Users\\fu_fu\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\fu_fu\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
